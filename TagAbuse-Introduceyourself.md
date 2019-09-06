@@ -1,0 +1,1 @@
+#introduceyourself/#introducemyself The “introduceyourself/introducemyself” tag is for creating one introductory post that tells us about you. Users are encouraged to use this tag exclusively for that, and not to reuse it. More information: [The Game of Tags](https://steemit.com/steemcleaners/@steemcleaners/the-game-of-tags)
