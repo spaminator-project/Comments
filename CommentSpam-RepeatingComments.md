@@ -1,0 +1,1 @@
+When you copy/paste or repeatedly type the same comments you could be mistaken for a bot. More information: [The Art of Commenting](https://steemit.com/steemcleaners/@steemcleaners/the-art-of-commenting) [Comment Classifications](https://steemcleaners.org/comment-classifications/)
