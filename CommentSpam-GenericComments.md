@@ -1,0 +1,1 @@
+Generic comments could be mistaken for spam. More information: [The Art of Commenting](https://steemit.com/steemcleaners/@steemcleaners/the-art-of-commenting) [Comment Classifications](https://steemcleaners.org/comment-classifications/)
