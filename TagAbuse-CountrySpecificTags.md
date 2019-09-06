@@ -1,0 +1,1 @@
+Please be mindful of country-specific tags. These tags are for articles written in that countries language or about that country. More information: [The Game of Tags](https://steemit.com/steemcleaners/@steemcleaners/the-game-of-tags)
