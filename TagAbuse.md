@@ -1,0 +1,1 @@
+	Using irrelevant tags, especially popular tags, makes it hard to find good and relevant content. Please try to use only relevant tags when posting. Please be mindful of popular tags. These tags are for articles written about that topic. More information: [The Game of Tags](https://steemit.com/steemcleaners/@steemcleaners/the-game-of-tags)
