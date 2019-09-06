@@ -1,0 +1,1 @@
+	Leaving comments asking for votes, follows, or other self promotional messages could be seen as spam. More Information: [The Art of Commenting](https://steemit.com/steemcleaners/@steemcleaners/the-art-of-commenting) [Comment Classifications](https://steemcleaners.org/comment-classifications/)
