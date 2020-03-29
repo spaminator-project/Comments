@@ -10,4 +10,4 @@ These templates partially constituted Spaminator's scope prior to the current co
 
 # Appeals
 
-Presently appeals are to be directed to the Steemcleaners Discord #mack-bot-and-spaminator room: https://discord.gg/kZ56egV
+Presently appeals are to be directed to the Hivewatchers Discord #spaminator room: https://discord.gg/kZ56egV
