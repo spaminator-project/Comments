@@ -1,8 +1,6 @@
 # Comments
 
-This repository contains all of the existing comment templates that Spaminator issues. 
-
-These comment templates constitute part of Spaminator's scope.
+This repository aims to contain helpful documentation for Spaminator engagement.
 
 ## Legacy Folder
 
